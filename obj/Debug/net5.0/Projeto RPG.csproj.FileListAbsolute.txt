@@ -1,0 +1,16 @@
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\bin\Debug\net5.0\Projeto RPG.exe
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\bin\Debug\net5.0\Projeto RPG.deps.json
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\bin\Debug\net5.0\Projeto RPG.runtimeconfig.json
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\bin\Debug\net5.0\Projeto RPG.runtimeconfig.dev.json
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\bin\Debug\net5.0\Projeto RPG.dll
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\bin\Debug\net5.0\ref\Projeto RPG.dll
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\bin\Debug\net5.0\Projeto RPG.pdb
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.csproj.AssemblyReference.cache
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.AssemblyInfoInputs.cache
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.AssemblyInfo.cs
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.csproj.CoreCompileInputs.cache
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.dll
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\ref\Projeto RPG.dll
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.pdb
+C:\Users\irani\OneDrive\Documentos\Projeto RPG\obj\Debug\net5.0\Projeto RPG.genruntimeconfig.cache
